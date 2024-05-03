@@ -2,7 +2,7 @@
 
 Teste Javascript
 
-[a relative link](/pages/intro.md)
+[Intro](/pages/intro.md)
 
 ### Installation
 
