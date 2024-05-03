@@ -2,6 +2,8 @@
 
 Teste Javascript
 
+[a relative link](/pages/intro.md)
+
 ### Installation
 
 ```
